@@ -1,0 +1,82 @@
+[
+	{
+		"id": 1,
+		"name": "Laptop Pro X1",
+		"category": "Electronics",
+		"price": 1299.99,
+		"brand": "TechCo",
+		"image": "https://m.media-amazon.com/images/I/51rLMpj9bHL._AC_UF894,1000_QL80_.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Coffee Maker Deluxe",
+		"category": "Appliances",
+		"price": 89.99,
+		"brand": "HomeBrew",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDnUR-obY88SqDygnsgsc3METitdqXFlivPw&s"
+	},
+	{
+		"id": 3,
+		"name": "Running Shoes AirMax",
+		"category": "Sports",
+		"price": 149.99,
+		"brand": "ActiveGear",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBgLsQ5KkXOGBfTjRXXaJSeHl4enKwGUxPuA&s"
+	},
+	{
+		"id": 4,
+		"name": "Leather Backpack Vintage",
+		"category": "Fashion",
+		"price": 259.99,
+		"brand": "UrbanStyle",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3rX9ve__2QlmW1XB62bDZ-_P0xcRvoNDVCw&s"
+	},
+	{
+		"id": 5,
+		"name": "Wireless Headphones SoundWave",
+		"category": "Electronics",
+		"price": 199.99,
+		"brand": "AudioPro",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-4DG9CQoNgluglkom2rgWytfYCjV4eGYaCg&s"
+	},
+	{
+		"id": 6,
+		"name": "Espresso Machine Barista",
+		"category": "Appliances",
+		"price": 399.99,
+		"brand": "CoffeeLuxe",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLUfvfsGnK78ZoGPRauG5xbdpF5sR7bQ0IQ&s"
+	},
+	{
+		"id": 7,
+		"name": "Hiking Boots TrailMaster",
+		"category": "Sports",
+		"price": 119.99,
+		"brand": "OutdoorX",
+		"image": "https://m.media-amazon.com/images/I/51VOwEIezCL._AC_UY900_.jpg"
+	},
+	{
+		"id": 8,
+		"name": "Sunglasses Aviator Classic",
+		"category": "Fashion",
+		"price": 99.99,
+		"brand": "SunShades",
+		"image": "https://m.media-amazon.com/images/I/51rLMpj9bHL._AC_UF894,1000_QL80_.jpg"
+	},
+	{
+		"id": 9,
+		"name": "Smartwatch FitnessTrack",
+		"category": "Electronics",
+		"price": 249.99,
+		"brand": "FitLife",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE4Lw72Qu2YjzletLM9NSE5i6_sx32yj-l_A&s"
+	},
+	{
+		"id": 10,
+		"name": "Blender PowerMix",
+		"category": "Appliances",
+		"price": 69.99,
+		"brand": "KitchenAid",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo_5jj-6s9tCp65afQyQKl7Q3ACx2v9zuGAQ&s"
+	}
+]
